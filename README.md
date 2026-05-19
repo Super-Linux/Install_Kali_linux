@@ -1,5 +1,7 @@
 this is a working legit install kali-linux in termux 
-##installtion
+
+
+## ## Installation
 pkg update
 pkg upgrade 
 pkg install wget 
