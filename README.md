@@ -32,4 +32,11 @@ The `install_kali.sh` script automates the installation of Kali Linux tools and 
 - This installation may take some time depending on your connection speed
 - Ensure you have adequate storage space before running the script
 - For issues or feature requests, please open an issue on the repository
+## License
+This project is licensed under the terms of the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
+
+
+
+
+\\
